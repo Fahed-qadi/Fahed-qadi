@@ -16,7 +16,7 @@
 ## 🛠️ Technologies & Tools
 
 ### **Programming Languages**
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=C%20Sharp)
@@ -39,18 +39,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=Vite)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prosanabani&show_icons=true&hide_border=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prosanabani&layout=compact&hide_border=true&theme=radical)
-
-</div>
 
 ---
 
