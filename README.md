@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Fahed Abdulrahim!
 
-![Profile Views](https://komarev.com/ghpvc/?username=prosanabani&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Fahed-qadi&color=blue&style=for-the-badge)
 
 ---
 
