@@ -43,6 +43,15 @@
 
 
 
+## GitHub Status
+<div align="left">
+
+![Fahed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&hide_border=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&hide_border=true&theme=radical)
+
+</div>
+
 ---
 
 ## 🌐 Connect with Me
