@@ -45,14 +45,12 @@
 
 ## 📊 GitHub Stats
 <div align="left">
-https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117
+![Fahed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&hide_border=true&theme=radical)
 
-https://streak-stats.demolab.com?user=Fahed-qadi&theme=radical&hide_border=true&background=0D1117
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&hide_border=true&theme=radical)
 </div>
----
+
 
 ## 🌐 Connect with Me
 
