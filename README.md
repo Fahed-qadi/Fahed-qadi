@@ -45,12 +45,15 @@
 
 ## 📊 GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages">
-</div>
+<div align="start">
+  <a href="https://github.com/Fahed-qadi">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
 
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&theme=onedark" alt="Top Languages">
+
+  </a>
+  
 
 ## 🌐 Connect with Me
 
@@ -63,7 +66,3 @@
 ---
 
 ### ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
-
-
-
-
