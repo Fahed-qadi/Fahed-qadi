@@ -1,74 +1,99 @@
 # 👋 Hello, I'm Fahed Abdulraheem!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fahed-qadi&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Fahed-qadi&color=blue&style=for-the-badge)
 
 ---
 
 ## 🚀 About Me
 
-**IT Professional** | **Full-Stack Developer** | **Technology Enthusiast**
-
-- 💻 5+ years of experience building web and mobile applications
-- 🛠️ Specializing in React, Angular, and Flutter development
-- 🔥 Firebase expert with production-grade implementations
-- 🎯 Passionate about clean code and scalable architecture
-- 📫 Let's collaborate: [ffqadi906@gmail.com](mailto:ffqadi906@gmail.com)
+- 🎓 **Experienced Developer:** IT professional specializing in modern web development and applications.
+- 🏆 **Accomplished Innovator:** Consistently delivering high-quality solutions in **React**, **Angular**, **Firebase**, **TypeScript**, and **Flutter**.
+- 💼 **Problem Solver:** Passionate about creating efficient and impactful digital solutions.
+- 📬 **Let's Connect:** Open to new challenges and collaborations! Reach out at [ffqadi906@gmail.com](mailto:ffqadi906@gmail.com).
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technologies & Tools
 
-### **Core Technologies**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C#](https://img.shields.io/badge/-C%23-000?style=flat&logo=C%20Sharp)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Zustand](https://img.shields.io/badge/-Zustand-000?&logo=Zustand)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-000?&logo=ReactHookForm)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+
+### **Design & Styling**
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=TailwindCSS)
+![PrimeReact](https://img.shields.io/badge/-PrimeReact-000?&logo=PrimeReact)
+![UnoCSS](https://img.shields.io/badge/-UnoCSS-000?&logo=unocss&logoColor=white)
+
+### **Development Tools**
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=Vite)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+
+
+
+## 📊 GitHub Analytics
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages">
+  </div>
 </div>
 
-### **Frontend Development**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-  <img src="https://img.shields.io/badge/PrimeReact-1A1F35?style=for-the-badge&logo=primereact&logoColor=00A8E8" alt="PrimeReact">
+
+## 📈 Coding Activity
+
+<div style="display: flex; flex-direction: column; gap: 16px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
+    <img style="width: 60%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=vue-dark&hide_border=true" alt="Stats">
+    <img style="width: 35%; min-width: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=vue-dark&hide_border=true" alt="Languages">
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahed-qadi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
 </div>
 
-### **Backend & DevOps**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px;">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
+
+## 💻 GitHub Metrics
+
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center;">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Stats">
+  <img style="height: 180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahed-qadi&theme=merko&hide_border=true" alt="Streak">
+  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=merko&hide_border=true" alt="Languages">
 </div>
 
----
 
-## 📈 GitHub Analytics
+## 🚀 GitHub Highlights
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
-  <img style="width: 48%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats">
-  <img style="width: 48%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <a href="mailto:ffqadi906@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<div align="center">
+  <a href="https://github.com/Fahed-qadi">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
   </a>
-  <a href="https://linkedin.com/in/[YOUR_PROFILE]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/[YOUR_HANDLE]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahed-qadi&theme=github-compact&hide_border=true&area=true&point=FF5722" alt="Activity Graph" width="100%">
+</div>
+
+
+## 🌐 Connect with Me
+
+<div align="left">
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&labelColor=red)](mailto:ffqadi906@gmail.com)
+
 </div>
 
 ---
 
-> "First, solve the problem. Then, write the code." — John Johnson
+### ✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
