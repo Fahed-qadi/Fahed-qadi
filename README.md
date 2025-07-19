@@ -45,44 +45,13 @@
 
 ## 📊 GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=radical&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub Stats">
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=radical&hide_border=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff" alt="Top Languages">
-  </div>
-</div>
-
-
-## 📈 Coding Activity
-
-<div style="display: flex; flex-direction: column; gap: 16px;">
-  <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: space-between;">
-    <img style="width: 60%; min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=vue-dark&hide_border=true" alt="Stats">
-    <img style="width: 35%; min-width: 250px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=vue-dark&hide_border=true" alt="Languages">
-  </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahed-qadi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
-</div>
-
-
-## 💻 GitHub Metrics
-
-<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center; align-items: center;">
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=merko&hide_border=true&count_private=true" alt="Stats">
-  <img style="height: 180px;" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahed-qadi&theme=merko&hide_border=true" alt="Streak">
-  <img style="height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=merko&hide_border=true" alt="Languages">
-</div>
-
-
-## 🚀 GitHub Highlights
 
 <div align="center">
   <a href="https://github.com/Fahed-qadi">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
+    <img width="33.3%" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
+    <img width="33.3%" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
   </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahed-qadi&theme=github-compact&hide_border=true&area=true&point=FF5722" alt="Activity Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fahed-qadi&theme=github-compact&hide_border=true&area=true&point=FF5722" alt="Activity Graph" width="33.3%">
 </div>
 
 
