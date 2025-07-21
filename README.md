@@ -49,7 +49,7 @@
   <a href="https://github.com/Fahed-qadi">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&hide_border=true&background=0D1117" alt="Top Languages">
 
   </a>
   
