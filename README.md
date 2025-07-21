@@ -45,14 +45,17 @@
 
 ## 📊 GitHub Analytics
 
-<div align="start">
-  <a href="https://github.com/Fahed-qadi">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117" alt="Stats">
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117" alt="Streak">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&hide_border=true&bg_color=0D1117" alt="Top Languages">
-
-  </a>
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; align-items: center;">
+  <!-- Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fahed-qadi&show_icons=true&theme=onedark&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats">
   
+  <!-- Streak Card -->
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahed-qadi&theme=onedark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak">
+  
+  <!-- Languages Card -->
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahed-qadi&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Top Languages">
+</div> 
+
 
 ## 🌐 Connect with Me
 
